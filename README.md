@@ -36,3 +36,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yeider-gonzalez-460a711a2/)
 [![Correo](https://img.shields.io/badge/Correo-electrónico-red?style=for-the-badge&logo=gmail)](mailto:yeryer972@gmail.com)
+
+
+###
+:zap: Actividad reciente
+<| --START_SECTION: activity-->
+<| --END_SECTION: activity-->
